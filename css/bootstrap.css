@@ -2990,15 +2990,15 @@ input[type="submit"].btn.btn-mini {
 .navbar {
   color: #222222;
 }
-.navbar .brand:hover {
+.brand:hover {
   text-decoration: none;
 }
-.navbar .brand {
+.brand {
   float: left;
   display: block;
   padding: 8px 20px 12px;
-  margin-left: -20px;
-  font-size: 20px;
+  margin-left: -10px;
+  font-size: 40px;
   font-weight: 200;
   line-height: 1;
   color: #333333;
@@ -4177,7 +4177,7 @@ a.badge:hover {
 .invisible {
   visibility: hidden;
 }
-.navbar .brand,
+.brand,
 legend {
   font-family: 'Lobster', cursive;
 }
@@ -4186,10 +4186,10 @@ legend {
   -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) ,  0 0 10px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) ,  0 0 10px rgba(0, 0, 0, 0.1);
 }
-.navbar .brand {
-  font-weight: bold;
+.brand {
+  font-weight: normal;
 }
-.navbar .brand:hover {
+.brand:hover {
   color: #4183c4;
 }
 .navbar .nav > li > a {
