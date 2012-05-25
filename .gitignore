@@ -33,4 +33,5 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+*.swp
 _site/*
