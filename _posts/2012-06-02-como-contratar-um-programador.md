@@ -18,7 +18,7 @@ Apesar de existirem excelentes artigos a respeito, resolvi dar pitaco e respeito
 
 Eu particularmente nunca fui um contratante, no entanto existem coisas extremamente básicas que acredito poderem ser melhoradas ou acrescentadas em grande parte dos processos de seleção de programadores. Eu realmente já sofri mais de uma vez com más contratações e realmente acredito que os tópicos abaixo teriam evitado boa parte dos problemas que meus times tiveram por conta disso.
 
-Eu realmente adoraria que todo contratante lesse o meu post. Se você conhece alguém que atua com contratação e concorda com o que está escrito aqui, faça um favor a humanidade: passe adiante essa mensagem!
+Eu realmente adoraria que todo contratante lesse o meu post. Se você conhece alguém que atua com contratação e concorda com o que está escrito aqui, ajude outros desenvolvedores: passe essa mensagem adiante!
 
 **Antes de pensar em contratar**
 
