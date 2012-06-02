@@ -24,15 +24,15 @@ Eu realmente adoraria que todo contratante lesse o meu post. Se você conhece al
 
 - Antes de pensar em contratar, pense antes no motivo da sua contratação. Tente traçar um perfil do candidato ideal, descrever as habilidades que são imprescindíveis e habilidades complementares.
 
-- As palavras junior, pleno e sênior possuem inúmeros significados. Esses significados são atribuídos pelas próprias empresas de acordo com seus próprios critérios. Então para facilitar sua vida na hora de selecionar currículos que realmente se encaixam com o desejado, define na sua vaga o que é um profissional junior, pleno ou sênior para a sua empresa. Ganha cinco pontos quem não colocar isso no título da vaga.
+- As palavras junior, pleno e sênior possuem inúmeros significados. Esses significados são atribuídos pelas próprias empresas de acordo com seus próprios critérios. Então para facilitar sua vida na hora de selecionar currículos que realmente se encaixam com o desejado, define na sua vaga o que é um profissional junior, pleno ou sênior para a sua empresa.
 
 - Correção ortográfica é algo bem importante. Por favor, passe o texto por um corretor antes de submetê-lo.
 
 - Peça que sua equipe recomende pessoas com quem já trabalharam e que acreditam serem bons candidatos.
 
-- Definitivamente não existe "Programador Java Server Faces", "Programador Structs" muito menos "Programador VB.NET". O que existe é programador! Se conhecimento de uma tecnologia é essencial, coloque isso como pré-requisito. Ganha dez pontos quem não colocar isso no título da vaga.
+- Definitivamente não existe "Programador Java Server Faces", "Programador Structs" muito menos "Programador VB.NET". O que existe é programador! Se conhecimento de uma tecnologia é essencial, coloque isso como pré-requisito.
 
-- Definitivamente não coloque "Programador Delphi Ninja", "Arquiteto de Software Megaphoda", "Desenvolvedor Rockstar" etc. Isso simplementes mostrará o quão amador você é para recrutar pessoas e afastará os bons programadores que um dia você sonhou em contratar. Ganha vinte pontos quem não colocar isso no título da vaga.
+- Definitivamente não coloque "Programador Delphi Ninja", "Arquiteto de Software Megaphoda", "Desenvolvedor Rockstar" etc. Isso simplementes mostrará o quão amador você é para recrutar pessoas e afastará os bons programadores que um dia você sonhou em contratar.
 
 **Durante o processo de seleção**
 
@@ -40,11 +40,11 @@ Eu realmente adoraria que todo contratante lesse o meu post. Se você conhece al
 
 - É bastante interessante propor problemas simples relacionados a lógica e matemática. A maior parte das pessoas que se auto-denominam programadores não são capazes de resolver um problema desses. Só isso deve remover boa parte dos programadores que você não está (ou pelo menos não deveria estar) interessado em contratar.
 
-- Se você vai contratar um programador você realmente deveria saber como ele escreve código. Sendo assim, proponha um problema para que ele resolva utilizando sua linguagem predileta. Peça também que ele escreva uma documentação básica contando como ele resolveu aquele problema. Se possível, peça para que ele apresente a solução para alguém da sua equipe técnica e deixe com que a discutam. Isso é ótimo para você descobrir se ele sabe programar, se sabe escrever e se sabe se comunicar com outro ser humano.
+- Se você vai contratar um programador você realmente deveria saber como ele escreve código. Sendo assim, proponha um problema para que ele resolva utilizando a linguagem de programação que domina. Peça também que ele escreva uma documentação básica contando como ele resolveu aquele problema. Se possível, peça para que ele apresente a solução para alguém da sua equipe técnica e deixe com que a discutam. Isso é ótimo para você descobrir se ele sabe programar, se sabe escrever e se sabe se comunicar com outro ser humano.
 
 - Se você está contratando para um time já existente, é bastante interessante envolver pelo menos uma pessoa do time com a contratação. Isso faz todo o sentido, uma vez que é o time quem terá que conviver com essa pessoa pelos próximos meses. Com certeza o time tem interesse em uma boa contratação.
 
-- Sabe aquele problema que o candidato resolveu na linguagem de programação predileta dele? Peça para que mais de uma pessoa da sua equipe revise e critique o que foi submetido. Qualquer programador que não tiver falhado miseravelmente até esse ponto, deveria se chamado para mais algumas entrevistas.
+- Sabe aquele problema que o candidato resolveu na linguagem de programação que ele domina? Peça para que mais de uma pessoa da sua equipe revise e critique o que foi submetido. Qualquer programador que não tiver falhado miseravelmente até esse ponto, deveria se chamado para mais algumas entrevistas.
 
 - Faça entrevistas técnicas, proponha problemas e pergunte como ele os resolveria. Use o quadro branco ou folhas de papel para diagramar uma solução. Confronte a experiência descrita no currículo com perguntas sobre a tecnologia que ele afirma ter trabalhado.
 
