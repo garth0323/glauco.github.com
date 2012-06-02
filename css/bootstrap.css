@@ -344,7 +344,7 @@ a:hover {
 p {
   margin: 0 0 9px;
   font-family: 'Cabin', Verdana, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 18px;
 }
 p small {
@@ -2669,7 +2669,7 @@ input[type="submit"].btn.btn-mini {
 .nav .nav-header {
   display: block;
   padding: 3px 15px;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: bold;
   line-height: 18px;
   color: #999999;
@@ -3765,9 +3765,9 @@ a.thumbnail:hover {
 }
 .label,
 .badge {
-  font-size: 10.998px;
+  font-size: 12px;
   font-weight: bold;
-  line-height: 14px;
+  line-height: 18px;
   color: #ffffff;
   vertical-align: baseline;
   white-space: nowrap;
