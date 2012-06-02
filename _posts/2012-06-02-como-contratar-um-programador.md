@@ -24,7 +24,7 @@ Eu realmente adoraria que todo contratante lesse o meu post. Se você conhece al
 
 - Antes de pensar em contratar, pense antes no motivo da sua contratação. Tente traçar um perfil do candidato ideal, descrever as habilidades que são imprescindíveis e habilidades complementares.
 
-- As palavras junior, pleno e sênior possuem inúmeros significados. Esses significados são atribuidos pelas próprias empresas de acordo com seus próprios critérios. Então para facilitar sua vida na hora de selecionar currículos que realmente se encaixam com o desejado, define na sua vaga o que é um profissional junior, pleno ou sênior para a sua empresa. Ganha cinco pontos quem não colocar isso no título da vaga.
+- As palavras junior, pleno e sênior possuem inúmeros significados. Esses significados são atribuídos pelas próprias empresas de acordo com seus próprios critérios. Então para facilitar sua vida na hora de selecionar currículos que realmente se encaixam com o desejado, define na sua vaga o que é um profissional junior, pleno ou sênior para a sua empresa. Ganha cinco pontos quem não colocar isso no título da vaga.
 
 - Correção ortográfica é algo bem importante. Por favor, passe o texto por um corretor antes de submetê-lo.
 
